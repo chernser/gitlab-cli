@@ -1,0 +1,3 @@
+[submodule "gitlabapi-openspec"]
+	path = gitlabapi-openspec
+	url = https://github.com/chernser/gitlabapi-openspec.git
